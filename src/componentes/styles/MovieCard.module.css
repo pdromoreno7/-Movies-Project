@@ -1,0 +1,23 @@
+.movieCard {
+  list-style: none;
+  font-size: 1.5rem;
+  text-align: center;
+}
+.movieCard h3 {
+  font-weight: 200;
+  text-align: center;
+}
+/* .movieCard img {
+  text-align: center;
+} */
+.movieImage {
+  border-radius: 15px;
+  background-color: aliceblue;
+  box-shadow: 3px 5px 22px 3px rgba(17, 17, 17, 0.83);
+}
+@media (max-width: 560px) {
+  .movieImage {
+    width: 90%;
+    height: auto;
+  }
+}
