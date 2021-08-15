@@ -7,6 +7,9 @@
   font-weight: 200;
   text-align: center;
 }
+.movieCard:hover {
+  opacity: 0.8;
+}
 /* .movieCard img {
   text-align: center;
 } */
