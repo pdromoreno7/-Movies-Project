@@ -1,3 +1,10 @@
+.l-header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: var(--z-fixed);
+}
 .NavbarItems {
   height: 80px;
   display: flex;
@@ -67,7 +74,7 @@
     transition: all 0.5s ease;
     z-index: 1;
     height: auto;
-    width: 50%;
+    width: 100%;
     margin: 0;
   }
   .nav-links {

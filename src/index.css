@@ -39,9 +39,9 @@
   --sombra3-box: 0 6px 8px rgba(174, 190, 205, 0.4);
 
   /*===== z index =====*/
-  /* --z-normal: 1;
+  --z-normal: 1;
   --z-tooltip: 10;
-  --z-fixed: 100; */
+  --z-fixed: 100;
 }
 * {
   box-sizing: border-box;
