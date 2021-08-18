@@ -1,5 +1,5 @@
 import React from "react";
-import { Button } from "./Button";
+// import { Button } from "./Button";
 
 import { MenuItems } from "./MenuItems";
 
@@ -34,7 +34,7 @@ class Navbar extends React.Component {
             );
           })}
         </ul>
-        <Button>Donar</Button>
+        {/* <Button>Donar</Button> */}
       </nav>
     );
   }
