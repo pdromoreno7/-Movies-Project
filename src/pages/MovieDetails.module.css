@@ -11,6 +11,7 @@
 }
 .movieImage {
   border-radius: 20px;
+  box-shadow: var(--sombra-box);
 }
 .movieDetails {
   font-size: 1.5rem;
