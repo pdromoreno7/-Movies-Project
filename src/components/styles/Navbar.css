@@ -22,7 +22,7 @@
 .nav-menu {
   width: 50vw;
   display: grid;
-  grid-template-columns: repeat(5, auto);
+  grid-template-columns: repeat(auto-fit, minmax(100px, auto));
   gap: 10px;
   list-style: none;
   text-align: center;
