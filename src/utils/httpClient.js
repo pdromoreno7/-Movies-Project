@@ -1,3 +1,4 @@
+//Api sitio: https://developers.themoviedb.org/3/getting-started/image-languages
 const API = "https://api.themoviedb.org/3";
 
 export function get(path) {
