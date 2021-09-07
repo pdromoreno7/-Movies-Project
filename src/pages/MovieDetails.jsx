@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router";
+
 import { Spinner } from "../components/Spinner";
 // import movie from "./movie.json";
 import { get } from "../utils/httpClient";
